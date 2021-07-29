@@ -12,4 +12,4 @@
 
 # run on Replit
 
-[REPLIT]()
+[REPLIT](https://replit.com/@DaylnCode/Topgg-Servercount-API?v=1)
